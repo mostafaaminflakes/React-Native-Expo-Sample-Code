@@ -19,3 +19,14 @@ React Native project that contains extensive experiments on Expo features.
  * Redux
  * Redux Thunk
  * Chat - react-native-gifted-chat
+
+## Download React-Native-Expo-Sample-Code
+
+You can download **React-Native-Expo-Sample-Code** as follows:
+
+```bash
+cd folder/to/clone-into/
+git init
+git remote add origin https://github.com/mostafaaminflakes/React-Native-Expo-Sample-Code.git
+git pull origin development
+```
